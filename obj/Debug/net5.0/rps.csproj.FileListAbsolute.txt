@@ -1,0 +1,15 @@
+/Users/derekjohnfoster/source/cs-folder/rps/bin/Debug/net5.0/rps.deps.json
+/Users/derekjohnfoster/source/cs-folder/rps/bin/Debug/net5.0/rps.runtimeconfig.json
+/Users/derekjohnfoster/source/cs-folder/rps/bin/Debug/net5.0/rps.runtimeconfig.dev.json
+/Users/derekjohnfoster/source/cs-folder/rps/bin/Debug/net5.0/rps.dll
+/Users/derekjohnfoster/source/cs-folder/rps/bin/Debug/net5.0/ref/rps.dll
+/Users/derekjohnfoster/source/cs-folder/rps/bin/Debug/net5.0/rps.pdb
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.csprojAssemblyReference.cache
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.AssemblyInfoInputs.cache
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.AssemblyInfo.cs
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.csproj.CoreCompileInputs.cache
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.dll
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/ref/rps.dll
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.pdb
+/Users/derekjohnfoster/source/cs-folder/rps/obj/Debug/net5.0/rps.genruntimeconfig.cache
