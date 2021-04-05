@@ -33,7 +33,8 @@ Please select a choice from below:
                 string compChoice = compChoices[rndNum];
                 // string compChoice = compChoices[0];
                 Console.Clear();
-                Console.WriteLine($"{userInput.Key} {rndNum}");
+                //testing actual choices
+                // Console.WriteLine($"{userInput.Key} {rndNum}");
                 if (userInput.Key == ConsoleKey.R && compChoice == compChoices[0])
                 {
                     Console.WriteLine($@"Phew it was a tie this time");
